@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "channel": "test",
+  "mandatory": false,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.2.0-test/Sahayak_Setup_v0.2.0_Test.exe",
+  "sha256": "92817CEB16491313481BE9574BEDFE1D277EDA129E23867F2439D05849C2AC97",
+  "size_bytes": 266577789,
+  "release_notes": [
+    "Manual Photo: 15 अलग photos और कुल 30 copies",
+    "A4 layout में हमेशा 5 photos प्रति row",
+    "Resume Maker, Passport Photo Maker और अन्य utility सुधार"
+  ],
+  "published_at": "2026-08-04T17:00:00+05:30"
+}
