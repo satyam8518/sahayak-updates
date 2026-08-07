@@ -1,14 +1,17 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.3",
   "channel": "test",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.2.1-test/Sahayak_Setup_v0.2.1_Test.exe",
-  "sha256": "6266ACA236FBB400F7B4FC969D2E6D0D1B389BADA68DABE4E643BAB054645987",
-  "size_bytes": 266628324,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.3-test/Sahayak_Setup_v0.3.3_Test.exe",
+  "sha256": "F9B10003EE25C298F1777112AF8C178B01FF0AF6795A9E20B96578FE352CCBD5",
+  "size_bytes": 266707580,
   "release_notes": [
-    "Automatic update checker और manual Update जाँचें button",
-    "Update download progress और SHA-256 security verification",
-    "Customer database को updates से अलग सुरक्षित user-data folder में migration"
+    "नया सुंदर My Profile section और profile के अंदर version व triple-click website action",
+    "उधार खाता dashboard, नया ग्राहक, आपने दिया और आपको मिला entries",
+    "ग्राहक से लेना लाल तथा received/advance balance हरे रंग में",
+    "हर ग्राहक की अलग PDF statement, PDF Save और PDF Share",
+    "हिसाब के total को Eye button से hide/show करने की privacy",
+    "पुराने customers, हिसाब, notes और बाकी local records update में सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-08-04T22:55:47+05:30"
+  "published_at": "2026-08-07T11:08:56+05:30"
 }
