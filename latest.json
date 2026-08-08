@@ -1,17 +1,17 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "channel": "test",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.3-test/Sahayak_Setup_v0.3.3_Test.exe",
-  "sha256": "F9B10003EE25C298F1777112AF8C178B01FF0AF6795A9E20B96578FE352CCBD5",
-  "size_bytes": 266707580,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.4-test/Sahayak_Setup_v0.3.4_Test.exe",
+  "sha256": "2113D00D5CCEE78441666C00AC5E9F4FDEF10349A272E8A9C97C7F51333EEE4A",
+  "size_bytes": 266701182,
   "release_notes": [
-    "नया सुंदर My Profile section और profile के अंदर version व triple-click website action",
-    "उधार खाता dashboard, नया ग्राहक, आपने दिया और आपको मिला entries",
-    "ग्राहक से लेना लाल तथा received/advance balance हरे रंग में",
-    "हर ग्राहक की अलग PDF statement, PDF Save और PDF Share",
-    "हिसाब के total को Eye button से hide/show करने की privacy",
-    "पुराने customers, हिसाब, notes और बाकी local records update में सुरक्षित रहेंगे"
+    "नया IMP LINKS section: उपयोगी वेबसाइटें नाम, category, URL और remark के साथ save करें",
+    "Saved links को तुरंत search, edit और delete करने की सुविधा",
+    "Links software के अंदर embedded Edge browser में खुलेंगी",
+    "Browser में Back, Forward, Reload, Print/PDF, Downloads और Chrome में खोलने के controls",
+    "सुरक्षा के लिए केवल HTTP और HTTPS links स्वीकार होंगी",
+    "आपकी test links और पुराने local records update में सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-08-07T11:08:56+05:30"
+  "published_at": "2026-08-08T08:29:47+05:30"
 }
