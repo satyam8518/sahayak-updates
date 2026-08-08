@@ -1,19 +1,18 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.7/Cyber_Manager_Setup_v0.3.7.exe",
-  "sha256": "5F619D4BD1EC079DF431D2C24DB74695E0B62997A998366BEB7DCAC73D8B6A09",
-  "size_bytes": 271335225,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.8/Cyber_Manager_Setup_v0.3.8.exe",
+  "sha256": "40BDF3346832285DAA359C17718F8EFB67BBDC8EBD1715DE9525E6426A4CF216",
+  "size_bytes": 271374228,
   "release_notes": [
-    "Fast Background Remove में processing resolution और mask overhead काफी कम किया गया",
-    "बड़े mobile photos तेजी से process होकर original dimensions में save होंगे",
-    "CPU threads computer की क्षमता के अनुसार संतुलित रहेंगे",
-    "Home PC में save किए गए 17 useful links default IMP LINKS में जोड़े गए",
-    "कुल 25 starter links मिलेंगे; existing links, names और remarks overwrite नहीं होंगे",
-    "पूरी left sidebar को toggle button या F9 से hide/show कर सकते हैं",
-    "Sidebar की पिछली hidden/visible स्थिति याद रहेगी",
+    "Background Remove का pymatting package metadata error ठीक किया गया",
+    "Recommended Fast mode अब direct ONNX Runtime पर चलता है और heavy libraries load नहीं करता",
+    "Fast mode का cold-start और processing delay काफी कम किया गया",
+    "Corrected packaged EXE पर वास्तविक model inference self-test सफल रहा",
+    "High Quality modes के लिए आवश्यक pymatting metadata installer में शामिल है",
+    "25 default IMP LINKS और sidebar hide/show सुविधा शामिल है",
     "पुराने records और local data सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-08-08T22:50:03+05:30"
+  "published_at": "2026-08-08T23:52:24+05:30"
 }
