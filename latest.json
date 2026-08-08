@@ -1,17 +1,18 @@
 {
-  "version": "0.3.4",
-  "channel": "test",
+  "version": "0.3.5",
+  "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.4-test/Sahayak_Setup_v0.3.4_Test.exe",
-  "sha256": "2113D00D5CCEE78441666C00AC5E9F4FDEF10349A272E8A9C97C7F51333EEE4A",
-  "size_bytes": 266701182,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.5/Cyber_Manager_Setup_v0.3.5.exe",
+  "sha256": "E9FF31CA75ED89511C0D72CD976EDF65F46FBD1A1B6BCE02C64C777648A559B4",
+  "size_bytes": 267158273,
   "release_notes": [
-    "नया IMP LINKS section: उपयोगी वेबसाइटें नाम, category, URL और remark के साथ save करें",
-    "Saved links को तुरंत search, edit और delete करने की सुविधा",
-    "Links software के अंदर embedded Edge browser में खुलेंगी",
-    "Browser में Back, Forward, Reload, Print/PDF, Downloads और Chrome में खोलने के controls",
-    "सुरक्षा के लिए केवल HTTP और HTTPS links स्वीकार होंगी",
-    "आपकी test links और पुराने local records update में सुरक्षित रहेंगे"
+    "Software का नया नाम Cyber Manager और final logo/icon",
+    "पुराने Sahayak records, login session और local data सुरक्षित रहेंगे",
+    "Login/Registration screen अब responsive है और loader दिखाती है",
+    "Cut, Copy, Paste, Select All, Undo/Redo तथा Delete keyboard shortcuts बेहतर किए गए",
+    "IMP LINKS में embedded browser और category list minimize सुविधा",
+    "SSC, RRB, UPSC, MPESB, CTET, NTA और IBPS के official starter links",
+    "सामान्य स्थिरता और installer migration सुधार"
   ],
-  "published_at": "2026-08-08T08:29:47+05:30"
+  "published_at": "2026-08-08T10:29:17+05:30"
 }
