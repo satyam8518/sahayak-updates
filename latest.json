@@ -1,19 +1,19 @@
 {
-  "version": "0.3.6",
+  "version": "0.3.7",
   "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.6/Cyber_Manager_Setup_v0.3.6.exe",
-  "sha256": "532ECE1AED3A93731BADB29991068AAAC0FAFA1E06CF2F1EEDBC3A4C03188DDC",
-  "size_bytes": 271337425,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.7/Cyber_Manager_Setup_v0.3.7.exe",
+  "sha256": "5F619D4BD1EC079DF431D2C24DB74695E0B62997A998366BEB7DCAC73D8B6A09",
+  "size_bytes": 271335225,
   "release_notes": [
-    "Background Remove के लिए नया Fast / सभी Computer mode default",
-    "Lightweight model installer में शामिल है; अलग download की जरूरत नहीं",
-    "कमजोर या पुराने PC पर CPU usage सीमित रखा गया है ताकि software hang न हो",
-    "बड़े mobile photos सुरक्षित working size पर process होकर original dimensions में save होंगे",
-    "Edge refinement default बंद है; जरूरत पर user इसे चालू कर सकता है",
-    "High Quality और portrait/product विकल्प उपलब्ध रहेंगे",
-    "स्पष्ट memory/engine error तथा diagnostic log जोड़ा गया",
+    "Fast Background Remove में processing resolution और mask overhead काफी कम किया गया",
+    "बड़े mobile photos तेजी से process होकर original dimensions में save होंगे",
+    "CPU threads computer की क्षमता के अनुसार संतुलित रहेंगे",
+    "Home PC में save किए गए 17 useful links default IMP LINKS में जोड़े गए",
+    "कुल 25 starter links मिलेंगे; existing links, names और remarks overwrite नहीं होंगे",
+    "पूरी left sidebar को toggle button या F9 से hide/show कर सकते हैं",
+    "Sidebar की पिछली hidden/visible स्थिति याद रहेगी",
     "पुराने records और local data सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-08-08T22:16:15+05:30"
+  "published_at": "2026-08-08T22:50:03+05:30"
 }
