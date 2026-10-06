@@ -1,20 +1,21 @@
 {
-  "version": "0.3.9",
+  "version": "0.4.0",
   "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.3.9/Cyber_Manager_Setup_v0.3.9.exe",
-  "sha256": "96213B9C386F4F4176F1F9869F6BB198D514453B5A1C0ADDCC381771341AAC6E",
-  "size_bytes": 271937694,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.4.0/Cyber_Manager_Setup_v0.4.0.exe",
+  "sha256": "73BA2EC6C5C963999903AD1672F9E793BAC26411C91B96C7F085ED5CFF56F337",
+  "size_bytes": 272028755,
   "release_notes": [
-    "PDF Tools में नया Images to PDF विकल्प जोड़ा गया",
-    "Images को mouse drag या Up/Down buttons से first-to-last क्रम में लगा सकते हैं",
-    "क्रम संख्या हर बदलाव के बाद अपने-आप अपडेट होगी",
-    "A4 Portrait, Landscape और image के अनुसार Auto orientation उपलब्ध है",
-    "Fit पूरी image और Fill page crop layout उपलब्ध हैं",
-    "Margin, quality, preview, remove और clear controls जोड़े गए",
-    "PDF को Save As dialog से मनचाही location पर save कर सकते हैं",
-    "बड़ी image list background में process होगी ताकि software responsive रहे",
+    "नया Mobile Connect और Mobile Inbox section जोड़ा गया",
+    "QR scan करके mobile browser से photos और PDF सीधे PC पर भेज सकते हैं",
+    "Mobile app, WhatsApp या cloud upload की आवश्यकता नहीं है",
+    "Camera से नया photo और multiple photos/PDF upload दोनों उपलब्ध हैं",
+    "हर receiving session में नया private URL और 6-digit PIN बनता है",
+    "PC पर received files का preview, Open, Save As और Delete कर सकते हैं",
+    "चुनी हुई mobile images सीधे Images to PDF tool में भेज सकते हैं",
+    "Duplicate filename होने पर पुरानी file overwrite नहीं होगी",
+    "Silent auto-update के बाद installer सही ढंग से बंद होगा",
     "पुराने records और local data सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-10-06T18:22:04+05:30"
+  "published_at": "2026-10-06T19:19:27+05:30"
 }
