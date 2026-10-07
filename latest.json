@@ -1,20 +1,20 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.4.1/Cyber_Manager_Setup_v0.4.1.exe",
-  "sha256": "3C677F0E712861F1AA5A7D43FAD6132855FD8EECB2AEF0797A69DB8A782A4A50",
-  "size_bytes": 272044850,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.4.2/Cyber_Manager_Setup_v0.4.2.exe",
+  "sha256": "E611FD7D1E9C6CCC748E1AFEF06281BDFC62908D45B3CB724867C8BD6CBE0BDD",
+  "size_bytes": 272025656,
   "release_notes": [
-    "Mobile Inbox में images अब Explorer जैसे thumbnails के साथ दिखेंगी",
-    "पहली बार PIN से Connect करने के बाद वही mobile दोबारा PIN नहीं माँगेगा",
-    "Mobile Connect का URL और pairing update/restart के बाद भी स्थायी रहेगा",
-    "Mobile browser में Home Screen icon जोड़ने का विकल्प और app manifest जोड़ा गया",
-    "Camera, Choose from Gallery और PDF Files के अलग-अलग स्पष्ट विकल्प जोड़े गए",
-    "Gallery से एक साथ multiple photos भेज सकते हैं",
-    "Cyber Manager खुलते ही Mobile receiver अपने-आप उपलब्ध हो जाएगा",
-    "PIN गलत होने, pairing समाप्त होने और unsupported files के स्पष्ट messages जोड़े गए",
+    "Images to PDF में Up/Down order buttons हटाकर direct mouse drag reorder जोड़ा गया",
+    "हर selected image अब बड़ी thumbnail के साथ दिखाई देगी",
+    "पूरी image row को पकड़कर ऊपर या नीचे slide कर सकते हैं",
+    "Drag के दौरान hand/fleur cursor से interaction स्पष्ट रहेगा",
+    "लंबी image list को drag करते समय automatic scrolling उपलब्ध है",
+    "Drop होते ही क्रम संख्या और PDF page order अपने-आप update होंगे",
+    "Portrait, Landscape, Auto orientation और margin options पहले जैसे उपलब्ध हैं",
+    "Mobile Inbox से भेजी images भी इसी drag interface में खुलेंगी",
     "पुराने records और local data सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-10-06T19:58:36+05:30"
+  "published_at": "2026-10-07T14:21:08+05:30"
 }
