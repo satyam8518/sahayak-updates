@@ -1,20 +1,17 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "channel": "stable",
   "mandatory": false,
-  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.4.2/Cyber_Manager_Setup_v0.4.2.exe",
-  "sha256": "E611FD7D1E9C6CCC748E1AFEF06281BDFC62908D45B3CB724867C8BD6CBE0BDD",
-  "size_bytes": 272025656,
+  "download_url": "https://github.com/satyam8518/sahayak-updates/releases/download/v0.4.3/Cyber_Manager_Setup_v0.4.3.exe",
+  "sha256": "815062DDC5098457EA9B52AF872803BB9C6CB683B6742EEA57C3A0F489EBD254",
+  "size_bytes": 272029657,
   "release_notes": [
-    "Images to PDF में Up/Down order buttons हटाकर direct mouse drag reorder जोड़ा गया",
-    "हर selected image अब बड़ी thumbnail के साथ दिखाई देगी",
-    "पूरी image row को पकड़कर ऊपर या नीचे slide कर सकते हैं",
-    "Drag के दौरान hand/fleur cursor से interaction स्पष्ट रहेगा",
-    "लंबी image list को drag करते समय automatic scrolling उपलब्ध है",
-    "Drop होते ही क्रम संख्या और PDF page order अपने-आप update होंगे",
-    "Portrait, Landscape, Auto orientation और margin options पहले जैसे उपलब्ध हैं",
-    "Mobile Inbox से भेजी images भी इसी drag interface में खुलेंगी",
+    "Login का इस computer पर login याद रखें विकल्प अब साफ blank/filled circle में दिखेगा",
+    "Registration consent, Photo Border, नाम और Edge refinement विकल्पों में भी यही circle control लागू है",
+    "Manual Photo के विकल्प भी अब चयन पर solid blue और बिना चयन blank circle दिखाते हैं",
+    "Checkbox में दिखाई देने वाला X निशान हटा दिया गया है",
+    "PDF editor के Bold, Italic और Underline tool buttons अपने मूल स्वरूप में रहेंगे",
     "पुराने records और local data सुरक्षित रहेंगे"
   ],
-  "published_at": "2026-10-07T14:21:08+05:30"
+  "published_at": "2026-10-08T17:18:01+05:30"
 }
